@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Blog-Redux-App/static/css/main.53a11a5c.chunk.css",
+    "main.js": "/Blog-Redux-App/static/js/main.1141ad23.chunk.js",
+    "main.js.map": "/Blog-Redux-App/static/js/main.1141ad23.chunk.js.map",
+    "runtime-main.js": "/Blog-Redux-App/static/js/runtime-main.248439e1.js",
+    "runtime-main.js.map": "/Blog-Redux-App/static/js/runtime-main.248439e1.js.map",
+    "static/css/2.50f53c61.chunk.css": "/Blog-Redux-App/static/css/2.50f53c61.chunk.css",
+    "static/js/2.ee36d4bb.chunk.js": "/Blog-Redux-App/static/js/2.ee36d4bb.chunk.js",
+    "static/js/2.ee36d4bb.chunk.js.map": "/Blog-Redux-App/static/js/2.ee36d4bb.chunk.js.map",
+    "index.html": "/Blog-Redux-App/index.html",
+    "precache-manifest.18ae8c8aafd3b0d4886be1834dccbf89.js": "/Blog-Redux-App/precache-manifest.18ae8c8aafd3b0d4886be1834dccbf89.js",
+    "service-worker.js": "/Blog-Redux-App/service-worker.js",
+    "static/css/2.50f53c61.chunk.css.map": "/Blog-Redux-App/static/css/2.50f53c61.chunk.css.map",
+    "static/css/main.53a11a5c.chunk.css.map": "/Blog-Redux-App/static/css/main.53a11a5c.chunk.css.map",
+    "static/js/2.ee36d4bb.chunk.js.LICENSE.txt": "/Blog-Redux-App/static/js/2.ee36d4bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248439e1.js",
+    "static/css/2.50f53c61.chunk.css",
+    "static/js/2.ee36d4bb.chunk.js",
+    "static/css/main.53a11a5c.chunk.css",
+    "static/js/main.1141ad23.chunk.js"
+  ]
+}
