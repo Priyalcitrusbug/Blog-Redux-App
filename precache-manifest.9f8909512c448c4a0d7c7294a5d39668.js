@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "223c83134195569c156e967482cafb14",
+    "revision": "edbc665f4242f97dcc00b55f149de43d",
     "url": "/Blog-Redux-App/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Blog-Redux-App/static/css/2.50f53c61.chunk.css"
   },
   {
-    "revision": "a48d15e35e0064fb0aa8",
+    "revision": "888d23cd5d2698570f0f",
     "url": "/Blog-Redux-App/static/css/main.16b4ea51.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Blog-Redux-App/static/js/2.7a602361.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a48d15e35e0064fb0aa8",
-    "url": "/Blog-Redux-App/static/js/main.b23c1ff5.chunk.js"
+    "revision": "888d23cd5d2698570f0f",
+    "url": "/Blog-Redux-App/static/js/main.6804e015.chunk.js"
   },
   {
     "revision": "1b4804dd39ea6852bee1",
